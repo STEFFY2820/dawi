@@ -67,6 +67,6 @@ public class Producto implements Serializable {
 		// TODO Auto-generated constructor stub
 	}
 	
-	
+	//pruebaTeffy
 	
 }
